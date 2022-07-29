@@ -16,3 +16,4 @@ flutter analyze
 
 ## Build Project
 flutter build apk --release
+![Screenshot_20220729-165347](https://user-images.githubusercontent.com/71923060/181745533-069600fb-835f-4b12-beec-96d2316b373b.png)
